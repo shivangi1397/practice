@@ -9,6 +9,7 @@ public class class1
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Hp\\Downloads\\chromedriver_win32\\chromedriver.exe");
 		ChromeDriver driver=new ChromeDriver();
 		driver.get("https://www.facebook.com");
+		System.out.println("no");
 	}
 
 }
